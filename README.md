@@ -1,4 +1,4 @@
-# scientific-animal-generator
+# new-animal-generator
 zero to hero (karpathy) remix
 
 ## motivation 
